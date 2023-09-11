@@ -15,4 +15,5 @@ public class Urls {
     private String longUrl;
 
     private String shortUrl;
+    //urls shortner url
 }
